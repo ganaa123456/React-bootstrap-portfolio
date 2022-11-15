@@ -1,0 +1,16 @@
+.service {
+    text-align: center;
+    align-items: center;
+    margin: 3rem 0;
+}
+.service-container {
+    margin-bottom: 2rem;
+}
+.service-i {
+    background: orange;
+    padding: 0.5rem;
+    border-radius: 50%;
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}

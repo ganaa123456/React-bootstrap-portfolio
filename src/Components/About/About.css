@@ -1,0 +1,14 @@
+.about-img {
+    height: 270px;
+    width: 270px;
+    border-radius: 50%;
+}
+.about-container {
+    margin: 8rem;
+    color: white;
+}
+#root {
+    background: rgb(41,96,105);
+background: linear-gradient(90deg, rgba(41,96,105,1) 0%, rgba(0,212,255,1) 0%, rgba(52,93,102,1) 9%, rgba(45,78,86,1) 12%, rgba(11,5,5,1) 28%, rgba(35,133,153,1) 100%);
+
+}

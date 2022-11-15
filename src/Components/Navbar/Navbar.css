@@ -1,0 +1,9 @@
+.navbar-nav a {
+    color: white;
+    text-decoration: none;
+    transition: 0.7s ease;
+   
+}
+.container span {
+    color: white;
+}
